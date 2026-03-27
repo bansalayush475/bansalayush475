@@ -12,11 +12,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 Working on **SafeZone – Emergency Safety Web App**
-- 🌱 Learning **DSA + React + Advanced Development**
+- 🌱 Learning **DSA + React**
 - 👯 Open to collaborate on **Web & App Projects**
-- 🤝 Need help with **Scalable Systems & DSA**
-- 💬 Ask me about **Java, C++, Web Development**
-- ⚡ Fun fact: **I turn ideas into real projects 🚀**
+- 💬 Ask me about **Java, C++, Web Dev**
+- ⚡ Fun fact: **I love building real projects 🚀**
 
 ---
 
@@ -31,16 +30,16 @@
 
 ## 💻 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,supabase,git,github,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,git,github,figma,vercel" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-- 🔐 **SafeZone** – Emergency SOS + Live Location Sharing  
-- 💻 **ATM Simulation (Java)**  
-- 📊 **Attendance Management System**  
-- 🌐 **Child Labour Awareness Website**
+## 🚀 Projects
+- 🔐 **SafeZone** – Emergency SOS + Live Location  
+- 💻 ATM Simulation (Java)  
+- 📊 Attendance System  
+- 🌐 Child Labour Awareness Website  
 
 ---
 
@@ -49,56 +48,27 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-<img src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bansalayush475&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/bansalayush475/bansalayush475/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bansalayush475&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## ✍️ Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-## 🔝 Top Contributions
+## 📊 GitHub Stats (STABLE)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Only if workflow works)
+<p align="center">
+<img src="https://raw.githubusercontent.com/bansalayush475/bansalayush475/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=bansalayush475&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=bansalayush475&style=for-the-badge&color=blue"/>
 </p>
 
 ---
@@ -106,7 +76,7 @@
 ## 🌟 Portfolio
 <p align="center">
 <a href="https://safezone-24x7.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
 
