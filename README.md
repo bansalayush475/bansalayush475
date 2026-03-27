@@ -51,17 +51,22 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-<img src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&cache_seconds=3600"/>
+<img src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight&cache_seconds=3600"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight&cache_seconds=3600"/>
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bansalayush475&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
 
+---
 
 ## 🐍 Contribution Snake
 <p align="center">
@@ -72,12 +77,17 @@
 
 ## 📈 Activity Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bansalayush475&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bansalayush475&theme=tokyo-night&radius=16"/>
 </p>
 
 ---
 
+## 🔝 Top Contributions
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=bansalayush475&limit=5&theme=tokyonight"/>
+</p>
 
+---
 
 ## 👀 Profile Views
 <p align="center">
