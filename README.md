@@ -15,7 +15,7 @@
 - 🌱 Learning **DSA + React + Advanced Development**
 - 👯 Open to collaborate on **Web & App Projects**
 - 🤝 Need help with **Scalable Systems & DSA**
-- 💬 Ask me about **Java, C++, Web Dev**
+- 💬 Ask me about **Java, C++, Web Development**
 - ⚡ Fun fact: **I turn ideas into real projects 🚀**
 
 ---
@@ -51,12 +51,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bansalayush475&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -91,21 +91,24 @@
 
 ## 🔝 Top Contributions
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=bansalayush475&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=bansalayush475&icon=5&color=6"/>
+<img src="https://komarev.com/ghpvc/?username=bansalayush475&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-### 🌟 Portfolio
-🚀 Check out my work:  
-👉 https://safezone-24x7.vercel.app/
+## 🌟 Portfolio
+<p align="center">
+<a href="https://safezone-24x7.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
 ---
 
