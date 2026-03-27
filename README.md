@@ -14,8 +14,9 @@
 - 🔭 Working on **SafeZone – Emergency Safety Web App**
 - 🌱 Learning **DSA + React**
 - 👯 Open to collaborate on **Web & App Projects**
-- 💬 Ask me about **Java, C++, Web Dev**
-- ⚡ Fun fact: **I love building real projects 🚀**
+- 🤝 Need help with **Scalable Systems**
+- 💬 Ask me about **Java, C++, Web Development**
+- ⚡ Fun fact: **I build real-world projects 🚀**
 
 ---
 
@@ -30,7 +31,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,git,github,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,supabase,git,github,figma,vercel" />
 </p>
 
 ---
@@ -38,7 +39,7 @@
 ## 🚀 Projects
 - 🔐 **SafeZone** – Emergency SOS + Live Location  
 - 💻 ATM Simulation (Java)  
-- 📊 Attendance System  
+- 📊 Attendance Management System  
 - 🌐 Child Labour Awareness Website  
 
 ---
@@ -48,23 +49,35 @@
 
 ---
 
-## 📊 GitHub Stats (STABLE)
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+<img src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Only if workflow works)
+
+
+## 🐍 Contribution Snake
 <p align="center">
 <img src="https://raw.githubusercontent.com/bansalayush475/bansalayush475/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
+
+## 📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bansalayush475&theme=tokyo-night"/>
+</p>
+
+---
+
+
 
 ## 👀 Profile Views
 <p align="center">
