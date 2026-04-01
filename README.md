@@ -44,10 +44,7 @@
 
 ---
 
-## 🏆 Achievements
-- 🥇 1st Position in Coding Competition (Aug 2024)
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -61,12 +58,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bansalayush475&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
 
----
 
 ## 🐍 Contribution Snake
 <p align="center">
