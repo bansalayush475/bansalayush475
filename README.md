@@ -11,7 +11,7 @@
   <a href="https://codolio.com/profile/bugbuster">
     <img src="https://img.shields.io/badge/Codolio-Profile-black?style=for-the-badge&logo=code&logoColor=white"/>
   </a>
-  <a href="https://safezone-24x7.vercel.app/">
+  <a href="https://ayushbansalportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Live-Portfolio-black?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
