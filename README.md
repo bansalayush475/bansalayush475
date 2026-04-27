@@ -18,151 +18,148 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
-
-## 🧠 About Me  
+## 🧠 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-💡 I’m a **problem solver who builds real-world tech solutions** — not just projects.  
+💡 I’m a **problem solver who builds real-world tech solutions** — not just projects.
 
-- 🔭 Building **SafeZone – Real-time Emergency Safety System**  
-- 🧠 Strong focus on **DSA + System Thinking**  
-- ⚙️ Interested in **Scalable Backend Systems**  
-- 🚀 Goal: **Crack top product-based company (2026)**  
-- 💬 Core Skills: **Java | C++ | React | Problem Solving**  
-
----
-
-<!-- ================= IMPACT ================= -->
-
-## ⚡ What Makes Me Different  
-
-✔️ I don’t just code — I **solve real problems**  
-✔️ I build **end-to-end projects (Frontend + Backend + Logic)**  
-✔️ I focus on **performance + scalability mindset**  
-✔️ I maintain **consistency in DSA & development**  
+- 🔭 Building **SafeZone – Real-time Emergency Safety System**
+- 🧠 Strong focus on **DSA + System Thinking**
+- ⚙️ Interested in **Scalable Backend Systems**
+- 🚀 Goal: **Crack top product-based company (2026)**
+- 💬 Core Skills: **Java | C++ | React | Problem Solving**
 
 ---
 
-<!-- ================= FEATURED ================= -->
+## ⚡ What Makes Me Different
 
-## 🔥 Featured Project  
+✔️ I don’t just code — I solve real problems  
+✔️ I build end-to-end projects  
+✔️ Performance + scalability mindset  
+✔️ Consistency in DSA & development
 
-### 🚨 SafeZone — Women Safety Web App  
+---
 
-🚀 A **real-time emergency response system** designed for safety  
+## 🔥 Featured Project
 
-### 💡 Problem  
-Lack of quick response systems in emergency situations  
+# 🚨 SafeZone — Emergency Safety Web App
 
-### ✅ Solution  
+### 💡 Problem
+Lack of quick response systems in emergency situations.
+
+### ✅ Solution
 - 📍 Live Location Tracking  
 - 🚨 Instant SOS Alert  
-- 📞 Emergency Contact Integration  
-- 🗺️ Safe Zone Visualization  
+- 📞 Emergency Contacts  
+- 🗺️ Safe Zone Visualization
 
-### 🎯 Impact  
-➡️ Faster emergency response  
-➡️ Improved personal safety  
-➡️ Scalable for real-world deployment  
+### 🎯 Impact
+- Faster emergency response  
+- Improved personal safety  
+- Scalable deployment
 
-🔗 **Live:** https://safezone-24x7.vercel.app/  
-📂 **Code:** https://github.com/bansalayush475  
+🔗 Live: https://safezone-24x7.vercel.app/  
+📂 Code: https://github.com/bansalayush475
 
-> 🛠 Built using React, Supabase, Modern UI  
+> Built using React, Supabase, Modern UI
 
 ---
 
-<!-- ================= PROJECTS ================= -->
+## 🚀 Projects
 
-## 🚀 Projects  
-
-| Project | Tech | Impact |
-|--------|------|--------|
+| Project | Tech Stack | Impact |
+|--------|------------|--------|
 | 🔐 SafeZone | React, Supabase | Real-time safety system |
-| 💻 ATM Simulation | Java | OOP & logic building |
-| 📊 Attendance System | Java | Automation solution |
+| 💻 ATM Simulation | Java | OOP & logic |
+| 📊 Attendance System | Java | Automation |
 | 🎮 Tic-Tac-Toe | Java | Game logic |
 | 🌐 Awareness Website | HTML/CSS/JS | Social impact |
 
 ---
 
-<!-- ================= DSA ================= -->
+## 🧠 Problem Solving
 
-## 🧠 Problem Solving  
-
-- ✅ Solved **300+ DSA Problems**  
-- 📌 Strong in **Arrays, Trees, Graphs,Web Development**  
-- ⚡ Regular practice & consistency  
+- ✅ Solved **300+ DSA Problems**
+- 🌳 Arrays, Trees, Graphs
+- ⚡ Regular problem solving
 
 ---
 
-<!-- ================= ACHIEVEMENTS ================= -->
+## 🏆 Achievements
 
-## 🏆 Achievements  
-
-- 🥇 1st Position — Coding Competition (2024)  
-- 🥉 3rd Position — CodeChef Inspirathon (2025)  
-- 🎓 8.6 CGPA  
-- 🚀 Built multiple real-world projects  
+- 🥇 1st Position — Coding Competition (2024)
+- 🥉 3rd Position — CodeChef Inspirathon (2025)
+- 🎓 8.6+ CGPA
+- 🚀 Real-world projects built
 
 ---
 
-<!-- ================= TECH ================= -->
-
-## 💻 Tech Stack  
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,supabase,git,github,figma,vercel" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,supabase,git,github,figma,vercel"/>
 </p>
 
 ---
 
-<!-- ================= STATS ================= -->
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&cache_seconds=3600"/>
-  <img src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight"/>
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170em"
+src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight&cache_seconds=1&v=3"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph  
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bansalayush475&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bansalayush475&theme=tokyo-night"/>
 </p>
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
-## 🌐 Connect With Me  
+## 🏅 Profile Trophy
 
 <p align="center">
-<a href="https://linkedin.com/in/ayushbansal-987-"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:bansalayush475@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/></a>
-<a href="https://instagram.com/ayush_bnsl07"><img src="https://img.shields.io/badge/Instagram-Social-pink?style=for-the-badge&logo=instagram"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=bansalayush475&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
 
-<!-- ================= GOALS ================= -->
+## 🌐 Connect With Me
 
-## 🎯 2026 Vision  
+<p align="center">
+<a href="https://linkedin.com/in/ayushbansal-987-">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- 🚀 Crack a top product-based company  
-- 🧠 Become advanced in DSA  
-- 🌐 Build scalable full-stack systems  
-- 🤝 Contribute to impactful open-source  
+<a href="mailto:bansalayush475@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/ayush_bnsl07">
+<img src="https://img.shields.io/badge/Instagram-Social-pink?style=for-the-badge&logo=instagram"/>
+</a>
+</p>
 
 ---
 
-<h3 align="center">🔥 "I build systems that solve problems, not just code that runs." 🔥</h3>
+## 🎯 2026 Vision
 
+- 🚀 Crack top product-based company
+- 🧠 Advanced DSA
+- 🌐 Build scalable systems
+- 🤝 Contribute to open source
 
+---
 
-
+<h3 align="center">
+🔥 "I build systems that solve problems, not just code that runs." 🔥
+</h3>
