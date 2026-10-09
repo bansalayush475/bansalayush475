@@ -1,38 +1,41 @@
-# 🚀 Ayush Bansal | Full Stack Developer
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;Blockchain+%26+Cybersecurity+Enthusiast;AI%2FML+%26+Research;Building+Scalable+Tech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;Blockchain+%26+Cybersecurity;AI%2FML+Enthusiast;Building+Scalable+Tech+Solutions" alt="Animated typing"/>
 </p>
 
 <p align="center">
-  <a href="https://ayushbansalportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/bansalayush475">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://codolio.com/profile/bugbuster">
-    <img src="https://img.shields.io/badge/Codolio-DSA_Profile-111111?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00F7FF,50:007CF0,100:7B2FF7&text=AYUSH%20BANSAL&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20PROBLEM%20SOLVER&descSize=17&descAlignY=58&animation=twinkling" width="100%" alt="Animated header"/>
+</p>
+
+<p align="center">
+  <a href="https://ayushbansalportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://github.com/bansalayush475"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://codolio.com/profile/bugbuster"><img src="https://img.shields.io/badge/Codolio-DSA_Profile-7B2FF7?style=for-the-badge&logo=code" alt="Codolio"/></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation"/>
+</p>
+
+<p align="center">
+  <b>⚡ Build • Innovate • Learn • Repeat ⚡</b>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-Hi! I'm **Ayush Bansal**, a Computer Science and Engineering student at Chandigarh University, passionate about software engineering, problem-solving, and building technology that solves real-world challenges.
+Hi! I'm **Ayush Bansal**, a Computer Science and Engineering student at Chandigarh University who enjoys building software, solving challenging problems, and exploring emerging technologies.
 
-I enjoy working across the stack, from designing responsive user interfaces to developing backend services, databases, and application logic.
+- 💻 Full Stack Development and Backend Engineering
+- 🧩 Data Structures and Algorithms
+- 🔍 Building a personal Crypto-Blockchain Forensics & Intelligence System
+- 🤖 Exploring AI/ML and graph-based analytics
+- 📄 Research paper accepted at IEEE I2ITCON 2026
+- 🔗 Club Manager at TokenTitan, Chandigarh University's Blockchain Club
 
-- 💻 Full Stack Development with React.js, Node.js, Express.js, and MongoDB.
-- 🧠 Practicing Data Structures and Algorithms and improving problem-solving skills.
-- 🔍 Building a personal Crypto-Blockchain Forensics & Intelligence System.
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and data-driven solutions.
-- 📄 Research paper accepted at IEEE I2ITCON 2026.
-- 🔗 Club Manager at TokenTitan, Chandigarh University's Blockchain Club.
-- 🤝 Experienced in team coordination, project collaboration, and technical event management.
-
-> *Building meaningful products, solving challenging problems, and continuously learning.*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=2500&pause=800&color=7B2FF7&center=true&vCenter=true&width=700&lines=Turning+ideas+into+applications;Learning+something+new+every+day;Building+software+that+matters" alt="Animated developer motto"/>
+</p>
 
 ---
 
@@ -42,14 +45,11 @@ I enjoy working across the stack, from designing responsive user interfaces to d
 
 **Medharvix Systems Pvt. Ltd. · Gurugram, India**
 
-*May 2026 – July 2026*
+`May 2026 – July 2026`
 
-Worked on full-stack application development for a multi-role SaaS platform.
-
-- Developed responsive dashboard interfaces using React.js.
-- Worked with backend technologies, databases, and REST API integration.
-- Collaborated with team members on application features and workflows.
-- Contributed to frontend development, data extraction workflows, and project coordination.
+- Contributed to full-stack application development and dashboard workflows.
+- Worked with frontend technologies, backend services, databases, and REST APIs.
+- Collaborated with team members on application features and integration.
 
 **Technologies:** React.js · Node.js · Express.js · MongoDB · SQL · REST APIs
 
@@ -57,140 +57,98 @@ Worked on full-stack application development for a multi-role SaaS platform.
 
 ## 🚀 Personal Projects
 
-### 1. 🔍 Crypto-Blockchain Forensics & Intelligence System
+### 🔍 Crypto-Blockchain Forensics & Intelligence System
 
-A personal project focused on investigating suspicious cryptocurrency wallet addresses through blockchain transaction analysis and graph-based intelligence.
+<p>
+  <img src="https://img.shields.io/badge/PROJECT-PERSONAL-7B2FF7?style=for-the-badge" alt="Personal project"/>
+  <img src="https://img.shields.io/badge/DOMAIN-BLOCKCHAIN-00F7FF?style=for-the-badge" alt="Blockchain"/>
+</p>
 
-**Key features planned**
-- Cryptocurrency wallet investigation.
-- Transaction tracing and fund-flow visualization.
-- Graph-based wallet relationship analysis.
+A personal project focused on investigating suspicious cryptocurrency wallets using transaction analysis and graph-based intelligence.
+
+- Wallet investigation and transaction tracing.
+- Fund-flow visualization and relationship analysis.
 - Suspicious wallet clustering and risk assessment.
-- Potential exchange attribution and investigation reports.
+- Potential exchange attribution and evidence reporting.
 
-**Focus areas:** Blockchain Analytics · Graph Theory · Cybersecurity · Backend Development
+**Focus:** Blockchain Analytics · Graph Theory · Cybersecurity
 
-### 2. 🛡️ SafeZone — Women Safety Platform
+### 🛡️ SafeZone — Women Safety Platform
 
 A safety-focused web application designed to support emergency assistance and location-aware safety workflows.
 
-- Responsive frontend and application workflows.
+- Responsive application interfaces.
 - Backend services and database integration.
-- Firebase integration for application functionality.
-- Exploration of emergency response and safety features.
+- Firebase-powered application functionality.
 
 **Tech stack:** React.js · Node.js · Express.js · MongoDB · Firebase
 
-**Live Demo:** [safezone-24x7.vercel.app](https://safezone-24x7.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://safezone-24x7.vercel.app/)
 
-### 3. 🌸 Naari Cycle — AI-Powered Women's Health Platform
+### 🌸 Naari Cycle — AI-Powered Women's Health Platform
 
-An AI-oriented women's health platform concept focused on supporting menstrual cycle awareness and personalized health insights.
+An AI-oriented platform concept focused on menstrual cycle awareness and personalized health insights.
 
-- Health-focused user experience.
-- Exploration of AI-assisted insights and personalized information.
-- Focus on accessible digital health experiences.
+**Focus:** AI/ML · Web Development · Data-Driven Applications
 
-**Focus areas:** AI/ML · React.js · Data-Driven Applications
+### 🌍 Child Labour Awareness Website
 
-### 4. 🌍 Child Labour Awareness Website
+A social-impact website focused on educating users about child labour and its effects on children and society.
 
-A social-awareness website focused on educating users about child labour and promoting awareness of its impact on children and society.
-
-- Awareness-oriented web content.
-- Information presentation and user-friendly navigation.
-- Social-impact-focused web development.
-
-**Focus areas:** HTML · CSS · JavaScript · Web Development
+**Technologies:** HTML · CSS · JavaScript
 
 ---
 
-## 🧠 Technical Skills
+## ⚙️ Tech Stack
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" alt="Programming languages"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css&perline=6" alt="Programming languages"/>
 </p>
 
-### Frontend Development
+### Full Stack Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend technologies"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase&perline=6" alt="Full stack technologies"/>
 </p>
-
-- React.js
-- JavaScript (ES6+)
-- HTML5 and CSS3
-- Responsive Web Design
-- React Hooks and Context API
-- Axios and REST API Integration
-
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies"/>
-</p>
-
-- Node.js and Express.js
-- RESTful API Development
-- Authentication and Authorization Fundamentals
-- Middleware and Error Handling
-- API Integration
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database technologies"/>
-</p>
-
-- MongoDB
-- SQL and MySQL
-- Database Design Fundamentals
-- CRUD Operations and Query Optimization Fundamentals
-- Firebase
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" alt="Tools and platforms"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&perline=6" alt="Developer tools"/>
 </p>
 
-- Git and GitHub
-- Visual Studio Code
-- Postman
-- Figma
-- Docker fundamentals
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2200&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+%7C+Backend+%7C+Databases;DSA+%7C+OOP+%7C+DBMS;APIs+%7C+Git+%7C+System+Design" alt="Animated skills"/>
+</p>
 
 ---
 
-## 📚 Core Computer Science Knowledge
+## 🧩 Core Computer Science
 
-| Area | Topics |
+| Subject | Topics |
 |---|---|
-| Data Structures & Algorithms | Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Recursion, Dynamic Programming |
-| Object-Oriented Programming | Encapsulation, Inheritance, Polymorphism, Abstraction |
-| DBMS | SQL, Joins, Normalization, Transactions, Indexing |
-| Operating Systems | Processes, Threads, Synchronization, Memory Management |
-| Computer Networks | OSI Model, TCP/IP, HTTP, DNS, IP Addressing |
-| Software Engineering | REST APIs, Modular Design, Debugging, Version Control |
-| System Design | Scalability, Caching, Load Balancing, Database Design Fundamentals |
+| DSA | Arrays, Strings, Trees, Graphs, Recursion, Dynamic Programming |
+| OOP | Encapsulation, Inheritance, Polymorphism, Abstraction |
+| DBMS | SQL, Joins, Normalization, Transactions |
+| Operating Systems | Processes, Threads, Synchronization |
+| Computer Networks | OSI, TCP/IP, HTTP, DNS |
+| System Design | Scalability, Caching, Load Balancing, Database Design |
 
 ---
 
-## 💻 DSA & Problem Solving
+## 🧠 DSA & Problem Solving
 
-I regularly practice coding problems to improve algorithmic thinking, implementation skills, and technical interview readiness.
+- 🧩 **300+ problems solved** across coding platforms.
+- 💻 Practicing C++ and Java.
+- 📚 Strengthening algorithms, optimization, and complexity analysis.
 
-- **300+ problems solved** across coding platforms.
-- Practice in C++ and Java.
-- Focus on data structures, algorithms, and problem-solving patterns.
-- Working toward stronger optimization and complexity analysis skills.
-
-**Practice profiles**
-
-- [Codolio Profile](https://codolio.com/profile/bugbuster)
-- [GitHub](https://github.com/bansalayush475)
+<p align="center">
+  <a href="https://codolio.com/profile/bugbuster">
+    <img src="https://img.shields.io/badge/Visit_Codolio-View_Profile-7B2FF7?style=for-the-badge&logo=code" alt="Codolio profile"/>
+  </a>
+</p>
 
 ---
 
@@ -198,79 +156,69 @@ I regularly practice coding problems to improve algorithmic thinking, implementa
 
 ### Stacked Ensemble Learning for House Price Prediction on the Ames Housing Dataset
 
-**Conference:** IEEE I2ITCON 2026  
-**Status:** Accepted
-
-Research focused on applying stacked ensemble learning techniques to house price prediction using the Ames Housing Dataset.
-
-**Research interests**
-- Machine Learning
-- Ensemble Learning
-- Predictive Analytics
-- Model Evaluation
-- Data-Driven Decision Making
+- **Conference:** IEEE I2ITCON 2026
+- **Status:** Accepted
+- **Research area:** Machine Learning and Predictive Analytics
 
 ---
 
 ## 🏆 Achievements & Leadership
 
 - 📄 Research paper accepted at IEEE I2ITCON 2026.
-- 🥉 Third place in CodeChef Inspirathon 2025.
-- 🥇 First place in a coding competition in 2024.
-- 🧠 Solved 300+ DSA problems across coding platforms.
-- 🔗 Club Manager at **TokenTitan**, Chandigarh University's Blockchain Club.
-- 🤝 Experience coordinating club activities, technical workshops, and student collaboration.
+- 🥉 Third place — CodeChef Inspirathon 2025.
+- 🥇 First place — Coding Competition 2024.
+- 🧠 300+ DSA problems solved.
+- 🔗 Club Manager — TokenTitan Blockchain Club, Chandigarh University.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight&hide_border=true" width="80%" alt="Contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bansalayush475&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bansalayush475&bg_color=0d1117&color=00F7FF&line=7B2FF7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Currently Focusing On
 
-- Strengthening DSA and competitive programming fundamentals.
-- Building scalable full-stack applications.
-- Improving backend engineering and API design.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=Mastering+Data+Structures+%26+Algorithms;Building+Full+Stack+Applications;Learning+System+Design;Exploring+Blockchain+Analytics+%26+AI%2FML" alt="Animated learning goals"/>
+</p>
+
+- Strengthening DSA and competitive programming.
+- Building scalable full-stack and backend applications.
 - Learning system design and software architecture.
-- Exploring blockchain analytics, graph algorithms, and AI/ML.
-- Developing practical projects and expanding my engineering portfolio.
+- Developing my blockchain forensics personal project.
+- Exploring AI/ML and graph-based analytics.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to collaborating on interesting software projects, discussing emerging technologies, and connecting with developers who enjoy solving real-world problems.
-
 <p align="center">
-  <a href="https://ayushbansalportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/bansalayush475">
-    <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://codolio.com/profile/bugbuster">
-    <img src="https://img.shields.io/badge/Codolio-Practice-111111?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
-  </a>
+  <a href="https://ayushbansalportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://github.com/bansalayush475"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://codolio.com/profile/bugbuster"><img src="https://img.shields.io/badge/Codolio-Connect-7B2FF7?style=for-the-badge&logo=code" alt="Codolio"/></a>
 </p>
 
 <p align="center">
-  <b>Code with purpose. Build with passion. Keep improving.</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Code+with+purpose.;Build+with+passion.;Keep+learning.+Keep+growing." alt="Animated footer message"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bansalayush475&style=flat-square&color=00F7FF" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=bansalayush475&style=for-the-badge&color=00F7FF" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:007CF0,100:7B2FF7&height=150&section=footer&animation=twinkling" width="100%" alt="Animated wave footer"/>
 </p>
