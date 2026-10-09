@@ -1,258 +1,276 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">🚀 Ayush Bansal</h1>
-<h3 align="center">💻 CSE @ Chandigarh University | Full Stack Developer | Problem Solver</h3>
+# 🚀 Ayush Bansal | Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Building+Impactful+Tech+Solutions;DSA+%2B+Full+Stack+Developer;Passionate+About+Scalable+Systems;Future+Software+Engineer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;DSA+%26+Problem+Solving;Blockchain+%26+Cybersecurity+Enthusiast;AI%2FML+%26+Research;Building+Scalable+Tech+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://codolio.com/profile/bugbuster">
-    <img src="https://img.shields.io/badge/Codolio-Profile-black?style=for-the-badge&logo=code&logoColor=white"/>
-  </a>
   <a href="https://ayushbansalportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Live-Portfolio-black?style=for-the-badge&logo=vercel"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/bansalayush475">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://codolio.com/profile/bugbuster">
+    <img src="https://img.shields.io/badge/Codolio-DSA_Profile-111111?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+Hi! I'm **Ayush Bansal**, a Computer Science and Engineering student at Chandigarh University, passionate about software engineering, problem-solving, and building technology that solves real-world challenges.
 
-💡 I’m a **problem solver and full-stack developer** focused on building real-world, scalable technology solutions.
+I enjoy working across the stack, from designing responsive user interfaces to developing backend services, databases, and application logic.
 
-* 🔭 Building **Crypto-Blockchain Forensic & Intelligence System** for **Smart India Hackathon (SIH)**
-* 💼 Full Stack Engineer Intern & Project Vice Lead at **Medharvix Systems Pvt. Ltd.**
-* 🧠 Strong focus on **DSA + System Design + Backend Development**
-* ⚙️ Interested in **Scalable Backend Systems & Blockchain Technology**
-* 🚀 Building production-oriented applications and solving real-world problems
-* 💬 Core Skills: **C++ | Java | React | Node.js | Problem Solving**
+- 💻 Full Stack Development with React.js, Node.js, Express.js, and MongoDB.
+- 🧠 Practicing Data Structures and Algorithms and improving problem-solving skills.
+- 🔍 Building a personal Crypto-Blockchain Forensics & Intelligence System.
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and data-driven solutions.
+- 📄 Research paper accepted at IEEE I2ITCON 2026.
+- 🔗 Club Manager at TokenTitan, Chandigarh University's Blockchain Club.
+- 🤝 Experienced in team coordination, project collaboration, and technical event management.
+
+> *Building meaningful products, solving challenging problems, and continuously learning.*
 
 ---
 
 ## 💼 Internship Experience
 
-### 🚀 Full Stack Engineer Intern | Project Vice Lead
+### Full Stack Engineer Intern | Project Vice Lead
 
-**Medharvix Systems Pvt. Ltd. | Gurugram**
-**May 2026 – Present**
+**Medharvix Systems Pvt. Ltd. · Gurugram, India**
 
-Working on a **CA SaaS Dashboard**, a multi-role SaaS platform designed for Chartered Accountants, Junior CAs, and Clients.
+*May 2026 – July 2026*
 
-#### 🔧 Responsibilities & Contributions
+Worked on full-stack application development for a multi-role SaaS platform.
 
-* 🚀 Developing and managing **full-stack SaaS workflows**
-* 💻 Working across **React.js, Node.js, Express.js, MongoDB & SQL**
-* 🏗️ Contributing to **Admin, CA, Junior CA and Client portals**
-* 🔌 Designing and integrating **REST APIs**
-* 📊 Working on data extraction and structured data workflows
-* 👥 Collaborating with team members and coordinating development tasks
-* 🧩 Contributing to system architecture, workflow design and feature implementation
-* ⚡ Focused on building scalable and production-ready functionality
+- Developed responsive dashboard interfaces using React.js.
+- Worked with backend technologies, databases, and REST API integration.
+- Collaborated with team members on application features and workflows.
+- Contributed to frontend development, data extraction workflows, and project coordination.
 
-> **Role:** Full Stack Engineer Intern | Project Vice Lead
+**Technologies:** React.js · Node.js · Express.js · MongoDB · SQL · REST APIs
 
 ---
 
-## ⚡ What Makes Me Different
+## 🚀 Personal Projects
 
-✔️ I don’t just code — **I solve real problems**
-✔️ I build **end-to-end applications**
-✔️ I think about **performance, scalability and architecture**
-✔️ I combine **DSA + Development + System Thinking**
-✔️ I take ownership of projects and team execution
+### 1. 🔍 Crypto-Blockchain Forensics & Intelligence System
 
----
+A personal project focused on investigating suspicious cryptocurrency wallet addresses through blockchain transaction analysis and graph-based intelligence.
 
-# 🔥 Featured Projects
+**Key features planned**
+- Cryptocurrency wallet investigation.
+- Transaction tracing and fund-flow visualization.
+- Graph-based wallet relationship analysis.
+- Suspicious wallet clustering and risk assessment.
+- Potential exchange attribution and investigation reports.
 
-## 🕵️ Crypto-Blockchain Forensic & Intelligence System
+**Focus areas:** Blockchain Analytics · Graph Theory · Cybersecurity · Backend Development
 
-### 🏆 Smart India Hackathon (SIH) Project
+### 2. 🛡️ SafeZone — Women Safety Platform
 
-A blockchain forensic and intelligence platform designed to analyze cryptocurrency transactions, trace suspicious fund flows, and generate actionable intelligence from blockchain data.
+A safety-focused web application designed to support emergency assistance and location-aware safety workflows.
 
-### 💡 Problem
+- Responsive frontend and application workflows.
+- Backend services and database integration.
+- Firebase integration for application functionality.
+- Exploration of emergency response and safety features.
 
-Cryptocurrency transactions are transparent but can be difficult to investigate because of complex transaction networks, wallet relationships and cross-chain movement of funds.
+**Tech stack:** React.js · Node.js · Express.js · MongoDB · Firebase
 
-### ✅ Solution
+**Live Demo:** [safezone-24x7.vercel.app](https://safezone-24x7.vercel.app/)
 
-The platform aims to provide investigators with tools for:
+### 3. 🌸 Naari Cycle — AI-Powered Women's Health Platform
 
-* 🔍 **Blockchain Transaction Analysis**
-* 🧩 **Wallet & Address Intelligence**
-* 🌐 **Transaction Graph Visualization**
-* 🚨 **Suspicious Transaction Detection**
-* 💰 **Fund Flow Tracking**
-* 🕵️ **Entity & Wallet Relationship Analysis**
-* 📊 **Forensic Intelligence & Investigation Reports**
+An AI-oriented women's health platform concept focused on supporting menstrual cycle awareness and personalized health insights.
 
-### 🎯 Goal
+- Health-focused user experience.
+- Exploration of AI-assisted insights and personalized information.
+- Focus on accessible digital health experiences.
 
-Build a scalable intelligence system that helps transform raw blockchain transaction data into **visual, traceable and actionable forensic insights**.
+**Focus areas:** AI/ML · React.js · Data-Driven Applications
 
-> **Built for:** Smart India Hackathon (SIH)
-> **Domain:** Blockchain | Cyber Forensics | Intelligence | Data Analytics
+### 4. 🌍 Child Labour Awareness Website
 
----
+A social-awareness website focused on educating users about child labour and promoting awareness of its impact on children and society.
 
-## 🚨 SafeZone — Emergency Safety Web App
+- Awareness-oriented web content.
+- Information presentation and user-friendly navigation.
+- Social-impact-focused web development.
 
-### 💡 Problem
-
-Lack of quick and reliable response systems during emergency situations.
-
-### ✅ Solution
-
-* 📍 Live Location Tracking
-* 🚨 Instant SOS Alert
-* 📞 Emergency Contacts
-* 🗺️ Safe Zone Visualization
-* ⚡ Real-time emergency workflows
-
-### 🎯 Impact
-
-* Faster emergency response
-* Improved personal safety
-* Real-time location awareness
-* Scalable deployment
-
-🔗 **Live:** https://safezone-24x7.vercel.app/
-📂 **Code:** https://github.com/bansalayush475
-
-> Built using **React, Supabase & Modern UI**
+**Focus areas:** HTML · CSS · JavaScript · Web Development
 
 ---
 
-# 🚀 Other Projects
+## 🧠 Technical Skills
 
-| Project                         | Tech Stack                            | Impact                    |
-| ------------------------------- | ------------------------------------- | ------------------------- |
-| 🕵️ Crypto-Blockchain Forensics | Blockchain, Web, Data Analytics       | SIH Forensic Intelligence |
-| 🔐 SafeZone                     | React, Supabase                       | Real-time Safety System   |
-| 💼 CA SaaS Dashboard            | React, Node.js, Express, MongoDB, SQL | Production SaaS Platform  |
-| 💻 ATM Simulation               | Java                                  | OOP & Logic               |
-| 📊 Attendance System            | Java                                  | Automation                |
-| 🎮 Tic-Tac-Toe                  | Java                                  | Game Logic                |
-| 🌐 Awareness Website            | HTML, CSS, JavaScript                 | Social Impact             |
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" alt="Programming languages"/>
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend technologies"/>
+</p>
+
+- React.js
+- JavaScript (ES6+)
+- HTML5 and CSS3
+- Responsive Web Design
+- React Hooks and Context API
+- Axios and REST API Integration
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend technologies"/>
+</p>
+
+- Node.js and Express.js
+- RESTful API Development
+- Authentication and Authorization Fundamentals
+- Middleware and Error Handling
+- API Integration
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database technologies"/>
+</p>
+
+- MongoDB
+- SQL and MySQL
+- Database Design Fundamentals
+- CRUD Operations and Query Optimization Fundamentals
+- Firebase
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" alt="Tools and platforms"/>
+</p>
+
+- Git and GitHub
+- Visual Studio Code
+- Postman
+- Figma
+- Docker fundamentals
 
 ---
 
-## 🧠 Problem Solving
+## 📚 Core Computer Science Knowledge
 
-* ✅ Solved **300+ DSA Problems**
-* 🌳 Arrays, Linked Lists, Trees, Graphs & Dynamic Programming
-* ⚡ Regular competitive programming practice
-* 🧩 Strong focus on problem-solving and algorithmic thinking
-* 🎯 Preparing for product-based software engineering roles
-
----
-
-## 🏆 Achievements
-
-* 🥇 **1st Position** — Coding Competition (2024)
-* 🥉 **3rd Position** — CodeChef Inspirathon (2025)
-* 🎓 **8.6+ CGPA**
-* 🏆 **Smart India Hackathon (SIH)** — Blockchain Forensic & Intelligence System
-* 📚 **IEEE Research Paper Accepted** — Stacked Ensemble Learning for House Price Prediction
-* 🚀 Built and contributed to real-world production-oriented projects
+| Area | Topics |
+|---|---|
+| Data Structures & Algorithms | Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Recursion, Dynamic Programming |
+| Object-Oriented Programming | Encapsulation, Inheritance, Polymorphism, Abstraction |
+| DBMS | SQL, Joins, Normalization, Transactions, Indexing |
+| Operating Systems | Processes, Threads, Synchronization, Memory Management |
+| Computer Networks | OSI Model, TCP/IP, HTTP, DNS, IP Addressing |
+| Software Engineering | REST APIs, Modular Design, Debugging, Version Control |
+| System Design | Scalability, Caching, Load Balancing, Database Design Fundamentals |
 
 ---
 
-## 💻 Tech Stack
+## 💻 DSA & Problem Solving
+
+I regularly practice coding problems to improve algorithmic thinking, implementation skills, and technical interview readiness.
+
+- **300+ problems solved** across coding platforms.
+- Practice in C++ and Java.
+- Focus on data structures, algorithms, and problem-solving patterns.
+- Working toward stronger optimization and complexity analysis skills.
+
+**Practice profiles**
+
+- [Codolio Profile](https://codolio.com/profile/bugbuster)
+- [GitHub](https://github.com/bansalayush475)
+
+---
+
+## 📄 Research & Publications
+
+### Stacked Ensemble Learning for House Price Prediction on the Ames Housing Dataset
+
+**Conference:** IEEE I2ITCON 2026  
+**Status:** Accepted
+
+Research focused on applying stacked ensemble learning techniques to house price prediction using the Ames Housing Dataset.
+
+**Research interests**
+- Machine Learning
+- Ensemble Learning
+- Predictive Analytics
+- Model Evaluation
+- Data-Driven Decision Making
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 📄 Research paper accepted at IEEE I2ITCON 2026.
+- 🥉 Third place in CodeChef Inspirathon 2025.
+- 🥇 First place in a coding competition in 2024.
+- 🧠 Solved 300+ DSA problems across coding platforms.
+- 🔗 Club Manager at **TokenTitan**, Chandigarh University's Blockchain Club.
+- 🤝 Experience coordinating club activities, technical workshops, and student collaboration.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongodb,mysql,supabase,git,github,figma,vercel"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bansalayush475&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph"/>
 </p>
 
 ---
 
+## 🎯 Current Focus
+
+- Strengthening DSA and competitive programming fundamentals.
+- Building scalable full-stack applications.
+- Improving backend engineering and API design.
+- Learning system design and software architecture.
+- Exploring blockchain analytics, graph algorithms, and AI/ML.
+- Developing practical projects and expanding my engineering portfolio.
+
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
+
+I'm open to collaborating on interesting software projects, discussing emerging technologies, and connecting with developers who enjoy solving real-world problems.
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bansalayush475&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Ayush%20Bansal's%20GitHub%20Stats"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansalayush475&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-    height="180"
-  />
+  <a href="https://ayushbansalportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/bansalayush475">
+    <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://codolio.com/profile/bugbuster">
+    <img src="https://img.shields.io/badge/Codolio-Practice-111111?style=for-the-badge&logo=code&logoColor=white" alt="Codolio"/>
+  </a>
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=bansalayush475&theme=tokyonight&hide_border=true&border_radius=10"
-    width="70%"
-  />
+  <b>Code with purpose. Build with passion. Keep improving.</b>
 </p>
-
----
-
-## 📈 Contribution Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bansalayush475&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
-    width="95%"
-  />
+  <img src="https://komarev.com/ghpvc/?username=bansalayush475&style=flat-square&color=00F7FF" alt="Profile views"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=bansalayush475&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"
-    width="95%"
-  />
-</p>
-
----
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/ayushbansal-987-">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:bansalayush475@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://instagram.com/ayush_bnsl07">
-  <img src="https://img.shields.io/badge/Instagram-Social-pink?style=for-the-badge&logo=instagram"/>
-</a>
-
-</p>
-
----
-
-# 🎯 2026 Vision
-
-* 🏆 Build and scale the **SIH Blockchain Forensic Platform**
-* 🚀 Crack a **top product-based company**
-* 🧠 Master **Advanced DSA & System Design**
-* 🌐 Build **scalable full-stack systems**
-* 🔗 Explore **Blockchain & Cyber Forensics**
-* 🤝 Contribute to **Open Source**
-* 📚 Publish impactful technical research
-
----
-
-<h3 align="center">
-
-🔥 "I build systems that solve problems, not just code that runs." 🔥
-
-</h3>
